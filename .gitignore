@@ -1,0 +1,4 @@
+Reporter.properties
+*.txt.gz
+*.txt
+reporter
